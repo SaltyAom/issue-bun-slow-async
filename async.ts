@@ -4,4 +4,3 @@ export default {
   port: 8081,
   fetch: async () => await handle()
 }
-
