@@ -19,5 +19,7 @@ and run the load test command
 ./loadtest.sh
 ```
 
+<img width="798" alt="Screen Shot 2565-07-11 at 11 16 44" src="https://user-images.githubusercontent.com/35027979/178188382-41eb1679-9c67-4dfb-90b8-ef14df33525c.png">
+
 ## Prerequisted
 - Loadtest tools, script defaults to [wrk](https://github.com/wg/wrk)
